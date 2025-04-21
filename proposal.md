@@ -2,19 +2,20 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 51415 - Alesandroni, Valentino
+* 50470 - Silpituca, Lorenzo
+* ..... - Rodriguez, Martiniano
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [Fullstack App](https://github.com/Lsilpituca/DSW-Project)
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Plataforma que conecta personas que ofrecen servicios con quienes los necesitan, de forma simple y directa. Cada usuario tiene su perfil, puede publicar lo que hace o buscar lo que necesita, y todo se gestiona desde reservas y valoraciones. Los servicios están organizados por tipo y ubicación. Por ahora, no incluye mensajería ni pagos internos, enfocándose en ser un punto de encuentro claro y funcional.
 
 ### Modelo
-![imagen del modelo]()
+![imagen del modelo de dominio](https://drive.google.com/file/d/19VxkmKn1wPJuhsqC5kBZvtcKO5uo2C6n/view?usp=sharing)
+![imagen del DER](https://drive.google.com/file/d/1rXAAGGF4su6ZZzDrimdi9e0aV_5lAfNK/view?usp=sharing)
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
