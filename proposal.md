@@ -22,6 +22,8 @@ Plataforma que conecta personas que ofrecen servicios con quienes los necesitan,
 
 ![imagen del DER](https://github.com/user-attachments/assets/f204a4ab-c33c-4935-aad8-da17e86ec5ec)
 
+(La multiplicidad de TypeService a Service es de uno a muchos respectivamente)
+
 _Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional
