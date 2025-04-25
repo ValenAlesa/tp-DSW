@@ -20,7 +20,7 @@ Plataforma que conecta personas que ofrecen servicios con quienes los necesitan,
 
 ### Modelo
 
-![imagen del DER](https://drive.google.com/file/d/1rXAAGGF4su6ZZzDrimdi9e0aV_5lAfNK/view?usp=sharing](https://drive.google.com/file/d/1BS0qbxQ-7MTuyN1V9n7hSNEpWQfhUnQX/view?usp=sharing](https://drive.google.com/uc?export=view&id=1BS0qbxQ-7MTuyN1V9n7hSNEpWQfhUnQX )
+![imagen del DER](https://github.com/user-attachments/assets/f204a4ab-c33c-4935-aad8-da17e86ec5ec)
 
 _Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
