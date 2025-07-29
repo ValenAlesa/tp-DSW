@@ -19,7 +19,7 @@ Plataforma que conecta personas que ofrecen servicios con quienes los necesitan,
 
 ### Modelo
 
-![imagen del DER]([https://github.com/ValenAlesa/tp-DSW/blob/main/DER%20-%20DSW.drawio.png](https://raw.githubusercontent.com/ValenAlesa/tp-DSW/refs/heads/main/DER%20-%20DSW.drawio.png))
+![imagen del DER](https://github.com/ValenAlesa/tp-DSW/blob/main/DER%20-%20DSW.drawio.png)
 
 (La multiplicidad de ServiceType a Service es de uno a muchos respectivamente)
 
