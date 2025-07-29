@@ -5,7 +5,6 @@
 ### Integrantes
 
 - 51415 - Alesandroni, Valentino
-- 50470 - Silpituca, Lorenzo
 - 51357 - Rodriguez, Martiniano
 
 ### Repositorios
@@ -20,7 +19,7 @@ Plataforma que conecta personas que ofrecen servicios con quienes los necesitan,
 
 ### Modelo
 
-![imagen del DER](https://github.com/user-attachments/assets/f204a4ab-c33c-4935-aad8-da17e86ec5ec)
+![imagen del DER](https://github.com/ValenAlesa/tp-DSW/blob/main/DER%20-%20DSW.drawio.png)
 
 (La multiplicidad de ServiceType a Service es de uno a muchos respectivamente)
 
