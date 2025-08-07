@@ -31,7 +31,7 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Tipo Servicio<br>2. CRUD Provincia<br>|
-|CRUD dependiente|1. CRUD Ciudad {depende de} CRUD Ciudad<br>|
+|CRUD dependiente|1. CRUD Ciudad {depende de} CRUD Provincia<br>|
 |Listado<br>+<br>detalle| 1. Listado de publicaciones filtrado por fecha|
 |CUU/Epic|1. Reservar un servicio<br>2. Realizar la publicación del servicio| (charlarlo)
 
