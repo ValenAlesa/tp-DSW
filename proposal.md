@@ -29,7 +29,7 @@ Plataforma que conecta personas que ofrecen servicios con quienes los necesitan,
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Servicio<br>2. CRUD Usuario<br>|
+|CRUD simple|1. CRUD Servicio<br>2. CRUD Usuario<br>|
 |CRUD dependiente|1. CRUD Reserva {depende de} CRUD Publicacion y CRUD Usuario <br>|
 |Listado<br>+<br>detalle| 1. Listado de publicaciones filtrado por fecha|
 |CUU/Epic|1. Reservar un servicio<br>2. Realizar la publicación del servicio|
