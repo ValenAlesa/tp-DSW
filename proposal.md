@@ -9,7 +9,7 @@
 
 ### Repositorios
 
-- [Fullstack App](https://github.com/Lsilpituca/DSW-Project)
+- [Fullstack App](https://github.com/ValenAlesa/DSW---Project_Skilltrade)
 
 ## Tema
 
@@ -19,21 +19,20 @@ Plataforma que conecta personas que ofrecen servicios con quienes los necesitan,
 
 ### Modelo
 
-![imagen del DER](https://github.com/ValenAlesa/tp-DSW/blob/main/DER%20-%20DSW.drawio.png)
+![imagen del DER](https://github.com/ValenAlesa/tp-DSW/blob/main/DER%20-%20DSW-regularidad.drawio.png)
 
 ## Alcance Funcional
 
 ### Alcance Mínimo
 
-_Nota_: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El
 
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Servicio<br>2. CRUD Provincia<br>|
-|CRUD dependiente|1. CRUD Ciudad {depende de} CRUD Provincia<br>|
+|CRUD simple|1. CRUD Tipo Servicio<br>2. CRUD Usuario<br>|
+|CRUD dependiente|1. CRUD Reserva {depende de} CRUD Publicacion y CRUD Usuario <br>|
 |Listado<br>+<br>detalle| 1. Listado de publicaciones filtrado por fecha|
-|CUU/Epic|1. Reservar un servicio<br>2. Realizar la publicación del servicio| (charlarlo)
+|CUU/Epic|1. Reservar un servicio<br>2. Realizar la publicación del servicio|
 
 Adicionales para Aprobación
 |Req|Detalle|
