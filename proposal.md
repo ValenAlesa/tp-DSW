@@ -4,8 +4,8 @@
 
 ### Integrantes
 
-- 51415 - Alesandroni, Valentino
-- 51357 - Rodriguez, Martiniano
+- 51415 - Alesandroni, Valentino.
+- 51357 - Rodriguez, Martiniano.
 
 ### Repositorios
 
