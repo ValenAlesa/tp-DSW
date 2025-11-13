@@ -30,11 +30,11 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Servicio<br>2. CRUD Usuario<br>|
-|CRUD dependiente|1. CRUD Reserva {depende de} CRUD Publicacion y CRUD Usuario <br>|
+|CRUD dependiente|1. CRUD Publicaión {depende de} Usuario y CRUD Servicio <br>|
 |Listado<br>+<br>detalle| 1. Listado de publicaciones filtrado por fecha|
 |CUU/Epic|1. Reservar un servicio<br>2. Realizar la publicación del servicio|
 
-Adicionales para Aprobación
+Adicionales para Aprobación (Esto no se modifico ya que no optamos por la AD, en un futuro se completará)
 |Req|Detalle|
 |:-|:-|
 |CRUD ||
